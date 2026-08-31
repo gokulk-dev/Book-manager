@@ -1,16 +1,19 @@
-# Todo List
+# Booksky
 
-A simple and intuitive application to track daily tasks, manage priorities, and boost productivity. 
+A simple and intuitive web application designed to manage and track your personal book collection. 
 
 **Features**
-* Add, manage, and track daily tasks.
-* Clean and user-friendly interface.
-* Easily mark tasks as complete or delete them.
+* Add new books along with their author and descriptions.
+* View your reading list in a clean, easy-to-read interface.
+* Easily delete books from your collection when finished.
+
+**Live Demo**
+[View Booksky Live](https://gokulk-dev.github.io/Todo-List/)
 
 **Technologies Used**
 * HTML5 for the structural layout.
-* CSS3 for the visual design and styling.
-* Vanilla JavaScript for adding interactivity and managing tasks.
+* CSS3 for visual design and styling.
+* Vanilla JavaScript for adding interactivity and managing book entries.
 
 **How to Run Locally**
 1. Clone this repository to your local machine:
